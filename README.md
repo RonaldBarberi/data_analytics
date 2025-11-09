@@ -6,7 +6,7 @@
 <body align="center">
   <h1 align="center">Data Analystics</h1>
   <p align="center">
-    <img src="https://github.com/RonaldBarberi/RonaldBarberi/blob/main/assets/logo_data_analystics.png">
+    <img src="https://github.com/RonaldBarberi/RonaldBarberi/blob/main/assets/logo_data_analystics_min.png">
   </p>
   <p align="center">
     En este repositorio podrás encontrar todos mis proyectos enfocados al Analisis de Datos, con proyectos como Analisis Exploratorios de Datos (EDA) y manipulación, validación estadística de la información para extraer la mayor cantidad de información.
