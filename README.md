@@ -19,6 +19,9 @@
           <li>
             Analisis de información del sector BPO, validación estadística y entrega de DataSet para entrenamiento de un modelo de clasificación binaria, puedes verlo <a href="https://github.com/RonaldBarberi/data_analytics/blob/main/projects/eda_reg_clientes_venta_bpo/src/eda_validator_data.ipynb" target="_blank">aquí</a>
           </li>
+          <li>
+            Analisis de información del bancario, validación estadística y limpieza, para realizar entrega de DataSet para entrenamiento de un modelo de clasificación binaria, puedes verlo <a href="" target="_blank">aquí</a>
+          </li>
         </ul>
   </details>
 
